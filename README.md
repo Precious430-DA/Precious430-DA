@@ -43,10 +43,6 @@ I'm on a journey to transform raw data into actionable insights. Based in Delta 
 - Open to collaboration and learning opportunities
 - Available for entry-level freelance projects
 
-### 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Precious430-DA&show_icons=true&theme=radical)
-
 ---
 
 💡 *"Every expert was once a beginner. I'm just getting started."*
