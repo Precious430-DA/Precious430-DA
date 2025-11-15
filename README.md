@@ -1,48 +1,27 @@
-# Hi there, I'm Precious Ofoyekpene 👋
+Hi, I'm Precious Ofoyekpene 👋
 
-## Aspiring Data Analyst | Learning in Public | Building Real Projects
+Aspiring Data Analyst based in Delta State, Nigeria. I’m learning in public, working on real projects, and building my skills in Excel, Python, SQL, and Power BI.
 
-I'm on a journey to transform raw data into actionable insights. Based in Delta State, Nigeria, I'm building my skills by working on real-world projects and learning new tools every day.
+🔧 Tools & Skills
 
-### 🔧 Tools I'm Learning & Using
+Excel (Power Query, Power Pivot, learning VBA)
 
-**Data Analysis & Visualization:**
-- Excel (Power Query, Power Pivot, learning VBA)
-- Power BI
-- Python (Pandas, NumPy - still learning)
-- SQL 
+Python (Pandas, NumPy)
 
-**Current Focus:**
-- Excel, BI and SQL Mastery
-- Building dashboards from real world data
-- Understanding financial data
+SQL
 
-### 📊 My Projects
-** ALL PROJECTS CAN BE FOUND IN MY REPO SECTION
+Power BI
 
-### 🌱 Currently Learning
-- Python for data analysis (Pandas, NumPy)
-- SQL for database queries
-- Power BI fundamentals
-- Data visualization best practices
+💼 Currently
 
-### 💼 What I'm Working On
-- Building my project portfolio
-- Practicing daily with real datasets
-- Documenting my learning journey
-- Looking for freelance opportunities to gain experience
+Building dashboards from real datasets
 
-### 🎯 2025 Goals
-- Complete 5 data analysis projects
-- Get comfortable with Python and SQL
-- Build a strong GitHub portfolio
-- Land my first data analyst role
+Practicing daily and documenting my learning journey
 
-### 📫 Let's Connect
-- LinkedIn: [Precious Ofoyekpene](https://www.linkedin.com/in/precious-ofoyekpene-29082b1b7/)
-- Open to collaboration and learning opportunities
-- Available for entry-level freelance projects
+Exploring freelance projects
 
----
+📫 Connect
 
-💡 *"Every expert was once a beginner. I'm just getting started."*
+LinkedIn https://www.linkedin.com/in/precious-ofoyekpene-29082b1b7/
+
+💡 “Every expert was once a beginner.”
