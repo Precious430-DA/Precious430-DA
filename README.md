@@ -1,4 +1,5 @@
 **Hi, I'm Precious Ofoyekpene 👋**
+
 Aspiring Data Analyst based in Delta State, Nigeria. I’m learning in public, working on real projects, and building my skills in Excel, Python, SQL, and Power BI.
 
 **🔧 Tools & Skills**
