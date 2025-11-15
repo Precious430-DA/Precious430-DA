@@ -1,27 +1,18 @@
-Hi, I'm Precious Ofoyekpene 👋
-
+**Hi, I'm Precious Ofoyekpene 👋**
 Aspiring Data Analyst based in Delta State, Nigeria. I’m learning in public, working on real projects, and building my skills in Excel, Python, SQL, and Power BI.
 
-🔧 Tools & Skills
+**🔧 Tools & Skills**
+- Excel (Power Query, Power Pivot, learning VBA)
+- Python (Pandas, NumPy)
+- SQL
+- Power BI
 
-Excel (Power Query, Power Pivot, learning VBA)
+**💼 Currently**
+- Building dashboards from real datasets
+- Practicing daily and documenting my learning journey
+- Exploring freelance projects
 
-Python (Pandas, NumPy)
-
-SQL
-
-Power BI
-
-💼 Currently
-
-Building dashboards from real datasets
-
-Practicing daily and documenting my learning journey
-
-Exploring freelance projects
-
-📫 Connect
-
+**📫 Connect**
 LinkedIn https://www.linkedin.com/in/precious-ofoyekpene-29082b1b7/
 
 💡 “Every expert was once a beginner.”
