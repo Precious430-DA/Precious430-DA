@@ -1,6 +1,6 @@
 ***Hi, I'm Precious Ofoyekpene 👋***
 
-Aspiring Data Analyst based in Delta State, Nigeria. I am a NITDA/3MTT Trained data analyst, working on real projects, and building my skills in Excel, Python, SQL, and Power BI.
+Data Analyst based in Delta State, Nigeria. I am a NITDA/3MTT Trained data analyst, working on real projects, and building my skills in Excel, Python, SQL, and Power BI.
 
 **🔧 Tools & Skills**
 - Excel (Power Query, Power Pivot, learning VBA)
